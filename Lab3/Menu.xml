@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Menu>
+  <Food
+    Dish="Fish and Chips"
+    Cuisine ="British"
+    Course="Snack"
+    Weight="240"
+    Description="Fried fish and Potato"
+    Price="46">
+  </Food>
+  <Food
+    Dish="Borscht"
+    Cuisine ="Ukrainian"
+    Course="First"
+    Weight="450"
+    Description="Rich soup with vegetables"
+    Price="30">
+  </Food>
+  <Food
+    Dish="Galushky"
+    Cuisine ="Ukrainian"
+    Course="Second"
+    Weight="350"
+    Description="Rice and meat wrapped in cabbage leav"
+    Price="40">
+  </Food>
+  <Food
+    Dish="Charry Varenyky"
+    Cuisine ="Ukrainian"
+    Course="Dessert"
+    Weight="300"
+    Description="Boiled charry in dough with sweat sourcream"
+    Price="38">
+  </Food>
+  <Food
+    Dish="Pizza"
+    Cuisine ="Italian"
+    Course="Snack"
+    Weight="560"
+    Description="stuffing on dough"
+    Price="120">
+  </Food>
+  <Food
+    Dish="Pasta"
+    Cuisine ="Italian"
+    Course="First"
+    Weight="320"
+    Description="Dough, tomatoes and cheese"
+    Price="83">
+  </Food>
+  <Food
+    Dish="Sushi"
+    Cuisine ="Chinese"
+    Course="Snack"
+    Weight="410"
+    Description="Rice and fish"
+    Price="135">
+  </Food>
+  <Food
+    Dish="Khinkali"
+    Cuisine ="Geogian"
+    Course="First"
+    Weight="460"
+    Description="Meat, wrapped in dough"
+    Price="68">
+  </Food>
+  <Food
+    Dish="Khachapuri"
+    Cuisine ="Geogian"
+    Course="Snack"
+    Weight="270"
+    Description="Cheese pie with an egg on top of it"
+    Price="42">
+  </Food>
+  <Food
+    Dish="Bagette"
+    Cuisine ="French"
+    Course="Snask"
+    Weight="310"
+    Description="Long bread"
+    Price="21">
+  </Food>
+  <Food
+    Dish="Croissant"
+    Cuisine ="French"
+    Course="Dessert"
+    Weight="170"
+    Description="Bread with chocolate filling"
+    Price="26">
+  </Food>
+</Menu>
